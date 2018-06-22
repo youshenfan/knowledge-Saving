@@ -17,4 +17,5 @@ http://standards.iso.org/ittf/PubliclyAvailableStandards/index.html
 http://www.worldstdindex.com
 ### 标准分享网
 http://www.bzfxw.com/
-
+### 标准文献网
+http://www.bzwxw.com/
