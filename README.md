@@ -13,3 +13,8 @@ https://www.quora.com/What-is-a-good-website-for-free-books
 ## Standard Download
 ### ISO Standard
 http://standards.iso.org/ittf/PubliclyAvailableStandards/index.html
+### WorldStdIndex.com - Standards Worldwide - Standard & Specification Catalog
+http://www.worldstdindex.com
+### 标准分享网
+http://www.bzfxw.com/
+
