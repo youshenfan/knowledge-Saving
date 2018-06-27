@@ -19,3 +19,8 @@ http://www.worldstdindex.com
 http://www.bzfxw.com/
 ### 标准文献网
 http://www.bzwxw.com/
+
+
+理工学生常用开源软件库
+https://blog.csdn.net/norbert_jxl/article/details/9307047
+
